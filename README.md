@@ -1,16 +1,30 @@
-### Hi there 👋
+### Welcome to my profile! 👋 For whom it may interest, here are some things about me:  
+</div>
+  <img align="right" alt="main-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/r5TEy2N.png">
+</div>
 
-<!--
-**ClessonR/ClessonR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Data Analysis and Financial Data Behaviour
+- 🌱 I’m currently learning Python data libraries such as: Numpy, Matplotlib, Statsmodels, Seaborn. Also learning about data manipulation tools (Tableau).
+- 👯 I’m looking to collaborate on huge data projects, particullary the ones beggining from scratch so I'll be able fully experience the analysis tools.
+- 💬 Ask me about what I'd like to learn, books that I've read, and Linux! (Arch BTW) 🙃
+- 📫 How to reach me: bebettus2009@live.com.
+- ⚡ Fun fact: Things that challenge me, although being very stressful, are the main reason why I program there's no reason to program in order to solve already solved problems but using a different perspective. That's why a love data! Even if a database has been treated and cleaned there's still misteries to be solved and it's almost impossible to obtain equal insights from one database to another.
+- 🗺️ Idioms: Portugues(Native), Spanish(intermediate), English(Fluent), Deustch(Beginner).
+- 🧑‍🔬 Programming Languages: C++ and Python (Advanced / Intermediate), C and Java ( Intermidiate). I also have basic knowledge of Verilog, R, HTML, and CSS.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Linux" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="cpp" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Python" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+</div>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/clesson-r-869868171/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClessonR&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+</div>
