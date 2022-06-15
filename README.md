@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on Data Analysis and Financial Data Behaviour
+- 🔭 I’m currently working on Data Science and Financial Data Behaviour
 - 🌱 I’m currently learning Python data libraries such as: Numpy, Matplotlib, Statsmodels, Seaborn. Also learning about data manipulation tools (Tableau).
 - 👯 I’m looking to collaborate on huge data projects, particullary the ones beggining from scratch so I'll be able fully experience the analysis tools.
 - 💬 Ask me about what I'd like to learn, books that I've read, and Linux! (Arch BTW) 🙃
