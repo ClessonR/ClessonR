@@ -12,7 +12,7 @@
 - 📫 How to reach me: bebettus2009@live.com.
 - ⚡ Fun fact: Things that challenge me, although being very stressful, are the main reason why I program there's no motivation to program in order to solve already solved problems but using a different perspective, unless an incredible perfomance gain is obtained. That's why a love data! Even if a database has been treated and cleaned there's still misteries to be solved and it's almost impossible to obtain equal insights from one database to another. Also, never try to convince that something "just works" it's extremely important for me to understand how things are made from scratch, otherwise I feel like there's a hole in my mind.
 - 🗺️ Idioms: Portugues(Native), Spanish(intermediate), English(Fluent), Deustch(Beginner).
-- 🧑‍🔬 Programming Languages: C++ and Python (Advanced / Intermediate), C, Java and SQL ( Intermediate). I also have basic knowledge of Verilog, R, HTML, and CSS.
+- 🧑‍🔬 Programming Languages: Python (Advanced / Intermediate), C, C++, Java and SQL ( Intermediate). I also have basic knowledge of Verilog, R, HTML, and CSS.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
